@@ -1,0 +1,15 @@
+D:\ISMT\Programming\IntroToProg\first\UserManagement\bin\Debug\net8.0\UserManagement.exe
+D:\ISMT\Programming\IntroToProg\first\UserManagement\bin\Debug\net8.0\UserManagement.deps.json
+D:\ISMT\Programming\IntroToProg\first\UserManagement\bin\Debug\net8.0\UserManagement.runtimeconfig.json
+D:\ISMT\Programming\IntroToProg\first\UserManagement\bin\Debug\net8.0\UserManagement.dll
+D:\ISMT\Programming\IntroToProg\first\UserManagement\bin\Debug\net8.0\UserManagement.pdb
+D:\ISMT\Programming\IntroToProg\first\UserManagement\obj\Debug\net8.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISMT\Programming\IntroToProg\first\UserManagement\obj\Debug\net8.0\UserManagement.AssemblyInfoInputs.cache
+D:\ISMT\Programming\IntroToProg\first\UserManagement\obj\Debug\net8.0\UserManagement.AssemblyInfo.cs
+D:\ISMT\Programming\IntroToProg\first\UserManagement\obj\Debug\net8.0\UserManagement.csproj.CoreCompileInputs.cache
+D:\ISMT\Programming\IntroToProg\first\UserManagement\obj\Debug\net8.0\UserManagement.sourcelink.json
+D:\ISMT\Programming\IntroToProg\first\UserManagement\obj\Debug\net8.0\UserManagement.dll
+D:\ISMT\Programming\IntroToProg\first\UserManagement\obj\Debug\net8.0\refint\UserManagement.dll
+D:\ISMT\Programming\IntroToProg\first\UserManagement\obj\Debug\net8.0\UserManagement.pdb
+D:\ISMT\Programming\IntroToProg\first\UserManagement\obj\Debug\net8.0\UserManagement.genruntimeconfig.cache
+D:\ISMT\Programming\IntroToProg\first\UserManagement\obj\Debug\net8.0\ref\UserManagement.dll
